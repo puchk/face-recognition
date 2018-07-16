@@ -7,3 +7,8 @@ React app that uses Clarifai API to detect faces in images.
 # App Gifs
 ## Running App
  ![Running App](public/face-recognition.gif)
+## Register
+ ![Register](public/register.gif)
+## Sign In
+ ![Sign In](public/signin.gif)
+
